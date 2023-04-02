@@ -1,0 +1,3 @@
+# Task 2
+The task is to scrape data online using Python and extract all job listings that contain a question statement related to Python, Data Science, Data Analysis, Data Engineering, and Machine Learning. The objective is to create a Python script that can automate the process of web scraping and data extraction. The data should be gathered from reliable sources, and the job listings should be filtered based on their relevance to Python, Data Science, Data Analysis, Data Engineering, and Machine Learning. 
+The output of the program should be a list of job listings that match the specified criteria.  
